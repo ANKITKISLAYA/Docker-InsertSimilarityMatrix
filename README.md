@@ -9,3 +9,5 @@ recommendations.
 Below is
 
 Docker Hub image  :- https://hub.docker.com/r/ankitkislaya1995/insertrecsys_flask
+
+API:- http://localhost:5000/insertmatrix
